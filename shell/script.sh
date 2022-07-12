@@ -7,3 +7,4 @@ rm -rf disk.txt
 echo "task executed" 
 date
 echo "task executed again" 
+cat test/disk.txt
