@@ -9,3 +9,4 @@ date
 echo "task executed again" 
 cat test/disk.txt
 echo "task executed again for test"
+echo "task executed again for test"
